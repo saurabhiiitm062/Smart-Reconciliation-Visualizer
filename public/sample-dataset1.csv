@@ -1,0 +1,6 @@
+ID,Date,Amount,Description,Reference
+PUR-001,2024-01-15,1500.00,Office Supplies Purchase,REF-001
+PUR-002,2024-01-20,2500.00,Equipment Purchase,REF-002
+PUR-003,2024-01-25,800.00,Software License,REF-003
+PUR-004,2024-02-01,1200.00,Marketing Materials,REF-004
+PUR-005,2024-02-05,3500.00,Hardware Upgrade,REF-005
