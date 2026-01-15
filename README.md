@@ -33,7 +33,7 @@ An interactive dashboard that helps users reconcile two financial datasets by co
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/saurabhiiitm062/Smart-Reconciliation-Visualizer
 cd smart-reconciliation-visualizer
 ```
 
@@ -160,29 +160,7 @@ smart-reconciliation-visualizer/
 
 This project is open source and available under the MIT License.
 
-## Deployment
 
-### Quick Deploy to Vercel (Recommended - 2 minutes!)
-
-**Option 1: Deploy via GitHub (Recommended)**
-1. Push your code to GitHub:
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial commit"
-   git remote add origin <your-github-repo-url>
-   git push -u origin main
-   ```
-2. Go to [vercel.com](https://vercel.com) and sign in with GitHub
-3. Click "Add New Project" → Import your repository
-4. Click "Deploy" (Vercel auto-detects Next.js settings)
-5. Your app is live! 
-
-**Option 2: Deploy via Vercel CLI**
-```bash
-npm i -g vercel
-vercel
-```
 
 ### Other Deployment Options
 
@@ -195,8 +173,7 @@ See [DEPLOYMENT.md](./DEPLOYMENT.md) for detailed instructions on:
 
 ### Live Demo
 
-After deployment, add your live URL here:
-- Live Demo: [Your deployment URL]
+- Live Demo: [https://smart-reconciliation-visualizer-coral.vercel.app/]
 
 For detailed deployment instructions, see [DEPLOYMENT.md](./DEPLOYMENT.md)
 
