@@ -101,7 +101,7 @@ function findMatchingFields(record1: FinancialRecord, record2: FinancialRecord):
   }
 
   // Check other fields
-  for (const field of allFields) {
+  for (const field of Array.from(allFields)) {
     if (!priorityFields.includes(field) && record1[field] !== undefined && record2[field] !== undefined) {
       const similarity = calculateSimilarity(record1[field], record2[field])
       totalSimilarity += similarity
