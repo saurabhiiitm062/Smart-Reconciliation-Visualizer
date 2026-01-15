@@ -4,14 +4,14 @@ An interactive dashboard that helps users reconcile two financial datasets by co
 
 ## Features
 
-- 📊 **Dual Dataset Upload**: Upload two financial datasets in CSV or Excel format
-- 🔍 **Smart Matching**: Intelligent algorithm that matches records based on multiple criteria (ID, reference, date, amount, description)
-- ✅ **Match Detection**: Identifies records that match between both datasets
-- ⚠️ **Mismatch Detection**: Finds records that are similar but have differences
-- ❌ **Missing Records**: Identifies records present in one dataset but not the other
-- 📈 **Visual Analytics**: Interactive charts and graphs showing reconciliation statistics
-- 🔎 **Search & Filter**: Search through results and filter matches by confidence level
-- 🎨 **Modern UI**: Beautiful, responsive design with excellent user experience
+-  **Dual Dataset Upload**: Upload two financial datasets in CSV or Excel format
+-  **Smart Matching**: Intelligent algorithm that matches records based on multiple criteria (ID, reference, date, amount, description)
+-  **Match Detection**: Identifies records that match between both datasets
+-  **Mismatch Detection**: Finds records that are similar but have differences
+-  **Missing Records**: Identifies records present in one dataset but not the other
+-  **Visual Analytics**: Interactive charts and graphs showing reconciliation statistics
+-  **Search & Filter**: Search through results and filter matches by confidence level
+-  **Modern UI**: Beautiful, responsive design with excellent user experience
 
 ## Technology Stack
 
@@ -176,7 +176,7 @@ This project is open source and available under the MIT License.
 2. Go to [vercel.com](https://vercel.com) and sign in with GitHub
 3. Click "Add New Project" → Import your repository
 4. Click "Deploy" (Vercel auto-detects Next.js settings)
-5. Your app is live! 🎉
+5. Your app is live! 
 
 **Option 2: Deploy via Vercel CLI**
 ```bash
